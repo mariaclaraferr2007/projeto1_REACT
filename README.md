@@ -89,9 +89,14 @@ Você pode facilmente fazer deploy no Vercel, Netlify, ou GitHub Pages após exe
 
 ---
 
-## 🙋‍♀️ Autor
-Desenvolvido por Maria Clara Ferreira Lopes 
-GitHub: @mariaclaraferr2007
+## 👩‍💻 Autor
+Desenvolvido por Maria Clara Ferreira Lopes
+
+🎓 Estudante de Técnico em Informática - COTEMIG
+
+📧 Email: mariaclaraferreiralopes82@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/maria-clara-ferreira-lopes/
 
 
 
